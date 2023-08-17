@@ -13,7 +13,7 @@ function DeveloperPage() {
     })
 
 
-console.log(deve)
+
   return  <h1>This is {deve.name} {deve.role}</h1>
 }
 
